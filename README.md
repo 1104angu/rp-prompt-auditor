@@ -128,7 +128,7 @@ git clone https://github.com/1104angu/rp-prompt-auditor.git ~/.claude/skills/rp-
 
 ## 關於作者
 
-安谷（[@1104angu_](https://caveduck.io/user/1104angu_)），在 CAVEDUCK 寫 AIRP 角色卡。，在 CAVEDUCK 寫 AIRP 角色卡。手術刀本來是自己壓卡用的內部工具，砍過的卡多了，規則就長成現在這樣。
+安谷（[@1104angu_](https://caveduck.io/user/1104angu_)），在 CAVEDUCK 寫 AIRP 角色卡。手術刀本來是自己壓卡用的內部工具，砍過的卡多了，規則就長成現在這樣。
 
 如果它幫你省了 token，點顆星；如果它誤殺了你卡裡不該砍的東西，開 Issue 貼案例——後者對這個工具更有用。
 
