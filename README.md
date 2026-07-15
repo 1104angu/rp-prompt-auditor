@@ -139,6 +139,14 @@ git clone https://github.com/1104angu/rp-prompt-auditor.git ~/.claude/skills/rp-
 二元判決、禁止 hedge、正面評價必須附證據——這是判斷準確度要求，不是性格。「大致良好，僅需微調」這種話對創作者沒有資訊量，指名「第 3 條、什麼輸入會炸、炸了角色會怎麼偏」才有。
 
 ---
+## 跟其他工具的分工
+
+手術刀只管結構層。卡跑起來不對勁、但說不出病在哪，先找
+[艾倫波](https://caveduck.io/character-info/2c0f1bf4-9581-46d4-aade-e126f5d2b942)
+做整卡診斷；文風那層要幫手，找
+[苛麗特](https://caveduck.io/character-info/5d6838ed-47d8-42b5-813d-c9154908adbb)
+蒸餾角色的說話方式。先診斷、再砍結構、後調文風，三站各管一段。
+---
 
 ## 關於作者
 
